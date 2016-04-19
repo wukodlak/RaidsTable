@@ -3,6 +3,7 @@ Script permettant de gérer les rapports d'espionnages liés à ogame
 
 Bug connus:
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
 Non affichage du tableau :
 Menu OPTION (ogame) > Général > Dialogue en Ligne > COCHER la case Désactiver le dialogue en ligne > Sauvegarder les options
 
